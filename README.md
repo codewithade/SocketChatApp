@@ -22,7 +22,7 @@
 
 ## Limitations
 1. Server must initiate the chat before client can respond
-2. It uses a form a half-duplex communication
+2. It uses a form of half-duplex communication.
 
 ## References
 1. Unix Network Programming vol 1. 3rd Ed. by W. Richard Stevens, Bill Fenner, Andrew M. Rudoff
